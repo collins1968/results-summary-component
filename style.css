@@ -43,7 +43,7 @@
     height: 450px;
     background-color: hsl(0, 0%, 100%);
     left: 25%;
-    top: 25%;
+    top: 20%;
      /* right: 32%; */
     /* bottom: 25%; */
     border-radius: 25px;
@@ -274,5 +274,11 @@ h1{
     transition : 300ms ease-out;
     transform: translateY(0);
     background: var(--cobalt-blue);
+}
+
+.footer{
+    position: absolute;
+    left: 32%;
+    bottom: 10%;
 }
 
